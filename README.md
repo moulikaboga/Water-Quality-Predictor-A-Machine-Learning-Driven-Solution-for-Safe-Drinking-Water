@@ -15,3 +15,7 @@ The target audience for this project includes:
 - Individuals seeking to assess the safety of their drinking water at home.
 - Communities and local authorities responsible for managing public water supplies.
 - Environmental agencies focused on water quality monitoring and protection.
+
+## Demo Video
+[![Water Quality Predictor Demo Explanation](https://www.youtube.com/watch?v=Mfg5w96NN74)
+
