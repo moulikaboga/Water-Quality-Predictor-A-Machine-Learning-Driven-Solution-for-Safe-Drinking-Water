@@ -17,5 +17,5 @@ The target audience for this project includes:
 - Environmental agencies focused on water quality monitoring and protection.
 
 ## Demo Video
-[![Water Quality Predictor Demo Explanation](https://www.youtube.com/watch?v=Mfg5w96NN74)
+[[Water Quality Predictor Demo Explanation](https://www.youtube.com/watch?v=Mfg5w96NN74)]
 
